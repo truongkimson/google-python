@@ -2,7 +2,7 @@
 Google for Education - Python
 Collection of codes and respective input files for the exercises under this course
 
-1. Introduction
+Overview
 
 Google for Education - Python is materials used within Google to introduce Python to people with little programming experience.
 More details on this course can be found here https://developers.google.com/edu/python/
