@@ -26,7 +26,7 @@ def read_urls(filename):
   Screens out duplicate urls and returns the urls sorted into
   increasing order."""
 
-  dir = './google_python_exer/logpuzzle'
+  dir = './logpuzzle'
 
   path = os.path.join(dir, filename)
 
